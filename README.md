@@ -14,7 +14,7 @@ Same as the classic game.
 
 Paper covers Rock, Scissors cut Paper, Rock smashes scissors
 
-Choose your weapon wisely!
+Choose your moves wisely!
 
 Built with Python 3
 
